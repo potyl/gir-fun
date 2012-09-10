@@ -12,7 +12,7 @@ wnck-simple.pl [OPTION]...
 
 =head1 DESCRIPTION
 
-This script list all GUI applications. It also tries to detect the text editor
+This script lists all GUI applications. It also tries to detect the text editor
 used to edit the script's source file and maximizes it.
 
 =cut
